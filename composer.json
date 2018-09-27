@@ -1,25 +1,11 @@
 {
-  "name": "caocaozhang/test_hu",
-  "description": "test composer",
-  "keywords": [
-    "composer",
-    "test"
-  ],
-  "homepage": "https://github.com/caocaozhang/test_hu",
-  "type": "composer",
-  "license": "MIT",
-  "support": {
-    "source": "https://github.com/caocaozhang/test_hu"
-  },
-  "authors": [
-    {
-      "name": "caocaozhang",
-      "email": "1354720365@qq.com"
-    }
-  ],  
-  "autoload": {
-    "psr-4": {
-      "terry\\": ""
-    }
-  },  
+    "name": "caocaozhang/test_hu",
+    "description": "test composer",
+    "authors": [
+        {
+            "name": "caocaozhang",
+            "email": "1354720365@qq.com"
+        }
+    ],
+    "require": {}
 }
