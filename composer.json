@@ -1,0 +1,29 @@
+{
+  "name": "caocaozhang/test_hu",
+  "description": "test composer",
+  "keywords": [
+    "composer",
+    "test"
+  ],
+  "homepage": "https://github.com/caocaozhang/test_hu",
+  "type": "composer",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/caocaozhang/test_hu"
+  },
+  "authors": [
+    {
+      "name": "hu zhang",
+      "email": "1354720365@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",  
+  "autoload": {
+    "psr-4": {
+      "terry\\": ""
+    }
+  },
+  "config": {
+    "process-timeout": 1800
+  }
+}
