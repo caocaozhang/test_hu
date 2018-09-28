@@ -13,11 +13,10 @@
   },
   "authors": [
     {
-      "name": "hu zhang",
+      "name": "caocaozhang",
       "email": "1354720365@qq.com"
     }
-  ],
-  "minimum-stability": "stable",  
+  ],  
   "autoload": {
     "psr-4": {
       "terry\\": ""
