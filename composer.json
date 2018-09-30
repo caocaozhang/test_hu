@@ -6,7 +6,6 @@
             "name": "caocaozhang",
             "email": "1354720365@qq.com"
         }
-    ],
-    "minimum-stability": "dev",
+    ],    
     "require": {}
 }
